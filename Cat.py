@@ -9,3 +9,10 @@ class Cat():
 
     def purr(self):
         print('мррр')
+
+
+def summa(a, b):
+    return a * b
+
+
+print(summa('a', 3))
